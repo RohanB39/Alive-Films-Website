@@ -1,0 +1,65 @@
+.client {
+    display: flex;
+    flex-direction: column;
+    margin-top: 10rem;
+    margin-bottom: 5rem;
+}
+
+.client-container {
+    gap: 2rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.c-headings {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 100%;
+    text-align: center;
+}
+
+.r-button {
+    position: absolute;
+    gap: 1rem;
+    top: -2rem;
+    right: 0;
+}
+
+
+.r-button button {
+    font-size: 1.2rem;
+    padding: 0.2rem 0.8rem;
+    color: blue;
+    border: none;
+    border-radius: 5px;
+    background: white;
+    cursor: pointer;
+}
+
+.r-button>:nth-child(1) {
+    background: #EEEEFF;
+}
+
+.r-button>:nth-child(2) {
+    box-shadow: 0px 0px 5px 1px rgba(0, 0, 0, 0.25);
+}
+
+.slider {
+    margin-bottom: 2rem;
+}
+
+@media (max-width: 640px) {
+    .slider {
+        align-items: center;
+        margin-bottom: 0rem;
+    }
+
+    .cimg {
+        margin-left: 2rem;
+    }
+
+    .r-button {
+        position: initial;
+    }
+}

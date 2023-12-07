@@ -1,0 +1,38 @@
+[
+    {
+        "name": "PHOTOGRAPHY",
+        "price": "",
+        "detail": "Alive films specializes in all types of commercial photography.",
+        "image": "slider/r1.gif"
+    },
+    {
+        "name": "PRODUCTION SERVICES",
+        "price": "",
+        "detail": "We provide the physical basis for works in the fields of production",
+        "image": "slider/r2.gif"
+    },
+    {
+        "name": "FEATURE FILM & TV/WEB SERIES",
+        "price": "",
+        "detail": "We produce feature films, documentaries, TV content",
+        "image": "slider/r3.gif"
+    },
+    {
+        "name": "DOCUMENTORY",
+        "price": "",
+        "detail": " Alive film is an independent production company specializing on documentary filmmaking.",
+        "image": "slider/r4.gif"
+    },
+    {
+        "name": "CORPORATE VIDEOS & INDUSTRIAL VIDEOS",
+        "price": "",
+        "detail": "Our in-house troops hold specialty in producing emotionally-driven and engaging videos.",
+        "image": "slider/r5.gif"
+    },
+    {
+        "name": "AD FILMS",
+        "price": "",
+        "detail": "We are instrumental in implementing Advertising Film Making Services to our valuable customers.",
+        "image": "slider/r6.gif"
+    }
+]
