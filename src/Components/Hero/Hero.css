@@ -112,8 +112,8 @@
         padding-bottom: 3rem;
     }
     .h-arrow {
-        height: max-content;
-        width: 150%;
+        height: 80%;
+        width: 100%;
         /* margin-top: 20rem; */
     }
     .h-right {
