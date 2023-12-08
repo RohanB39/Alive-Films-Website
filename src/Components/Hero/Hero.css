@@ -113,10 +113,7 @@
     }
     .h-arrow {
         height: max-content;
-        width: 130%;
-        margin-left: -2rem;
-        overflow: hidden;
-        /* margin-top: 20rem; */
+        width: 100%;
     }
     .h-right {
         flex: 1;
