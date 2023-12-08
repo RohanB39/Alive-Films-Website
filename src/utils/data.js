@@ -117,26 +117,26 @@ export const hitFeatures = [
 export const testimonialsData = [
   {
     comment:
-      "SUPER HAPPY! Not only do you get to see the best seed and Early Stage companies but the exciting part is there’s a bunch of investors",
-    name: "Zach Lee",
-    profession: "QA specialist, Matrix architect",
+      "Working with [Video Production Company] was a game-changer for our business. Their creativity and attention to detail elevated our promotional videos to a whole new level. The team was professional, efficient, and delivered exceptional results. We highly recommend them!",
+    name: "John Smith",
+    profession: "CEO of XYZ Corp",
   },
   {
     comment:
-      "I have been working with ZAINKEEPSCODE on our fundraising strategies. They understands the in depth strategies of Venture Capital and early stage fund raising/company",
+      "Our experience with ALIVE FILMS was nothing short of fantastic. They understood our vision and brought it to life with stunning visuals and engaging content. The team's professionalism and commitment to quality make them our go-to choice for all future video projects.",
     name: "Cheryl R. Weiss",
-    profession: "Founder, Dubrow Cafeteria",
+    profession: "Marketing Manager at ABC Tech",
   },
   {
     comment:
-      "Another masterpiece really digging into the art of venture funds, portfolio construction and deal mechanics! Loved it - I can say without hesitation that it is incredibly valuable for anyone who is investing",
+      "The ALIVE FILMS team exceeded our expectations in capturing the essence of our conference. From pre-event planning to post-production, they demonstrated unmatched skill and dedication. The final product was not just a video; it was a masterpiece that perfectly showcased our event",
     name: "Vicky R. Lane",
-    profession: "Directork, Lafayette Radio",
+    profession: "Event Coordinator for DEF Conference",
   },
   {
     comment:
-      "BlueVenture is the premier setting for entrepreneurs and investors alike to exchange ideas, and network. As an entrepreneur, I can rely on the BlueVenture to bring top caliber speakers, entrepreneurs and investors",
+      "I can't thank [Video Production Company] enough for the outstanding promotional videos they produced for my real estate listings. Their cinematic approach showcased properties in a way that truly captured the attention of potential buyers. The videos undoubtedly played a significant role in closing deals faster.",
     name: "Jennifer Dubois",
-    profession: "Manager, China Coast",
+    profession: "Nonprofit Director",
   },
 ];
