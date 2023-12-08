@@ -135,7 +135,7 @@ export const testimonialsData = [
   },
   {
     comment:
-      "I can't thank [Video Production Company] enough for the outstanding promotional videos they produced for my real estate listings. Their cinematic approach showcased properties in a way that truly captured the attention of potential buyers.",
+      "I can't thank [Video Production Company] enough for the outstanding promotional videos they produced for my real estate listings.",
     name: "Jennifer Dubois",
     profession: "Nonprofit Director",
   },
