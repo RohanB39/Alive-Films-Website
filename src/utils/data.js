@@ -117,25 +117,25 @@ export const hitFeatures = [
 export const testimonialsData = [
   {
     comment:
-      "Working with [Video Production Company] was a game-changer for our business. Their creativity and attention to detail elevated our promotional videos to a whole new level. The team was professional, efficient, and delivered exceptional results. We highly recommend them!",
+      "Working with ALIVE FILMS was a game-changer for our business. Their creativity and attention to detail elevated our promotional videos to a whole new level.",
     name: "John Smith",
     profession: "CEO of XYZ Corp",
   },
   {
     comment:
-      "Our experience with ALIVE FILMS was nothing short of fantastic. They understood our vision and brought it to life with stunning visuals and engaging content. The team's professionalism and commitment to quality make them our go-to choice for all future video projects.",
+      "Our experience with ALIVE FILMS was nothing short of fantastic. They understood our vision and brought it to life with stunning visuals and engaging content.",
     name: "Cheryl R. Weiss",
     profession: "Marketing Manager at ABC Tech",
   },
   {
     comment:
-      "The ALIVE FILMS team exceeded our expectations in capturing the essence of our conference. From pre-event planning to post-production, they demonstrated unmatched skill and dedication. The final product was not just a video; it was a masterpiece that perfectly showcased our event",
+      "The ALIVE FILMS team exceeded our expectations in capturing the essence of our conference. From pre-event planning to post-production, they demonstrated unmatched skill and dedication.",
     name: "Vicky R. Lane",
     profession: "Event Coordinator for DEF Conference",
   },
   {
     comment:
-      "I can't thank [Video Production Company] enough for the outstanding promotional videos they produced for my real estate listings. Their cinematic approach showcased properties in a way that truly captured the attention of potential buyers. The videos undoubtedly played a significant role in closing deals faster.",
+      "I can't thank [Video Production Company] enough for the outstanding promotional videos they produced for my real estate listings. Their cinematic approach showcased properties in a way that truly captured the attention of potential buyers.",
     name: "Jennifer Dubois",
     profession: "Nonprofit Director",
   },
