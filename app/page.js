@@ -11,6 +11,7 @@ import HowItWorks from '@/src/Components/HowItWorks/HowItWorks';
 import Clients from '@/src/Components/Clientss/Clients';
 import Testamonials from '@/src/Components/Testamonials/Testamonials';
 import Footer from '@/src/Components/Footer/Footer';
+
 export default function Home() {
   const controls = useAnimation()
   return (
